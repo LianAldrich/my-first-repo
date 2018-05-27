@@ -11,9 +11,9 @@ in order to escape my shambles of a life and hopefully recover who I once was.
 
 Three of my favorite books are:
 
-- _Man's Search for Meaning_ by Viktor FRankl
+- _Man's Search for Meaning_ by Viktor Frankl
 - _Paradise Lost_ by John Milton
-- *The Prince* by Nicollò Michiavelli
+- *The Prince* by Nicollò Machiavelli
 
 ### Dreams
 
@@ -21,7 +21,7 @@ Last night I dreamt about the following:
 
 - [x] Losing my teeth
 - [ ] Matricide
-- [] Warmer socks
+- [x] Warmer socks
 
 ### Contact
 
