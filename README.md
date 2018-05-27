@@ -1,30 +1,28 @@
-# This is a large heading
+# Lian Aldrich
 
-## This is a smaller heading
+>###  _The rekindling..._
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### **Purpose**
 
-- This is
-- an unordered
-- list
+I am doing this course in order to give me the necessary skills to become a skilled hacker
+in order to escape my shambles of a life and hopefully recover who I once was.
 
-1. This is
-2. an ordered
-3. list
+### Reading
 
-Here is `some code` in the middle of a sentence.
+Three of my favorite books are:
 
-```
-This is
-a block
-of code
-```
+- _Man's Search for Meaning_ by Viktor FRankl
+- _Paradise Lost_ by John Milton
+- *The Prince* by Nicollò Michiavelli
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Dreams
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+Last night I dreamt about the following:
 
+- [x] Losing my teeth
+- [ ] Matricide
+- [] Warmer socks
 
+### Contact
+
+The best way to get in touch with me is to `never get in touch with me`
