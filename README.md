@@ -4,8 +4,7 @@
 
 ### **Purpose**
 
-I am doing this course in order to give me the necessary skills to become a skilled hacker
-in order to escape my shambles of a life and hopefully recover who I once was.
+I am doing this course in order to free me from Africa.
 
 ### Reading
 
@@ -20,7 +19,7 @@ Three of my favorite books are:
 Last night I dreamt about the following:
 
 - [x] Losing my teeth
-- [ ] Matricide
+- [ ] Snakes
 - [x] Warmer socks
 
 ### Contact
